@@ -1,8 +1,6 @@
-Here’s a refined and professional version of the `README.md` for your [Ansible Automation repo](https://github.com/RaissiAnouer/ansible-automation):
 
----
 
-```markdown
+
 # ⚙️ Ansible Automation for DevOps Stack on Azure
 
 This project contains Ansible playbooks designed to automate the provisioning and configuration of a full DevOps toolchain on an Azure VM. It installs Docker, Node.js, Java, Azure CLI, and deploys essential DevOps services via Docker Compose.
@@ -117,7 +115,7 @@ This repo showcases real-world automation of a complete DevOps toolchain using A
 
 ## 🧠 Author
 
-**Saber Mefteh** – [GitHub](https://github.com/RaissiAnouer)
+**Anouer Raissi** – [GitHub](https://github.com/RaissiAnouer)
 Bachelor’s Degree Final Year Project – DevOps Engineer Path
 
 ---
