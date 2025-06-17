@@ -38,7 +38,7 @@
 
     - name: Copy prometheus.yml to VM
       copy:
-        src: /home/saber/containers/prometheus.yml
+        src: /home/anouer/containers/prometheus.yml
         dest: /home/adminuser/devops/prometheus.yml
         owner: adminuser
         group: adminuser
