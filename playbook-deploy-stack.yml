@@ -30,7 +30,7 @@
 
     - name: Copy docker-compose.yml to VM
       copy:
-        src: /home/saber/containers/docker-compose.yml
+        src: /home/anouer/containers/docker-compose.yml
         dest: /home/adminuser/devops/docker-compose.yml
         owner: adminuser
         group: adminuser
